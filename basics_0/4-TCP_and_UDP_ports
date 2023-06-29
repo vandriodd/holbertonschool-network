@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+# netstat with flags l (listening ports) and p (name process)
 netstat -lp
